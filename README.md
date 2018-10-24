@@ -1,35 +1,27 @@
 # README
 
-Réalisé par Priscille de la Tour et Louis Martin du Nord
+Réalisé par Priscille de la Tour (@pris) et Louis Martin du Nord
 
-Ruby version 2.5.1
-Rails 5.2.1
+## Requirements
+`Ruby version 2.5.1`
+`Rails 5.2.1`
 
-Pour commencer la correction faire : git clone https://github.com/beeant8/MOOCademy.git
-cd MOOCademy
-puis Bundle install 
+### Pour commencer la correction faire : git clone https://github.com/beeant8/MOOCademy.git
+### `cd MOOCademy`
+### puis `Bundle install` 
 
-et c'est partie pour une corréction de folie !!!
+### et c'est partie pour une corréction de folie !!!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Dans notre école nous avons plusieurs cours et plusieurs élèves par cours mais un élève n'est inscrit que dans un cours.
+### Nous avons créé la base de données suivante :
 
-Things you may want to cover:
+### Un table Course comprenant
+- un titre
+- une description
 
-* Ruby version
+### Un table Leçon qui dépend de Course
+- un titre
+- un body
 
-* System dependencies
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
