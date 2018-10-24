@@ -2,6 +2,9 @@
 
 Réalisé par Priscille de la Tour et Louis Martin du Nord
 
+Ruby version 2.5.1
+Rails 5.2.1
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
